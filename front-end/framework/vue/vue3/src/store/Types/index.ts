@@ -1,0 +1,7 @@
+export const SET_CATEGORY = 'set_category'
+export const SET_SWIPE = 'set_swipe'
+export const SET_HAS_MORE = 'set_has_more'
+export const SET_ISLOADING = 'set_isloading'
+export const SET_OFFSET = 'set_offset'
+export const SET_LIMIT = 'set_limit'
+export const SET_GOODS_LIST = 'set_goods_list'
